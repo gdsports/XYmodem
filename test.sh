@@ -38,13 +38,13 @@ then
 else
     git clone https://github.com/gdsports/keymouse_t3
 fi
-if [ -d ${HOME}/Sync/xymodem/ ]
+if [ -d ${HOME}/Sync/XYmodem/ ]
 then
-    ln -s ${HOME}/Sync/xymodem/
+    ln -s ${HOME}/Sync/XYmodem/
 else
-    git clone https://github.com/gdsports/xymodem
+    git clone https://github.com/gdsports/XYmodem
 fi
-cd xymodem/examples
+cd XYmodem/examples
 find . -name '*.ino' -print0 | grep -zv Circuit | xargs -0 -n 1 $CC >/tmp/t36_$$.txt 2>&1
 #
 arduino --install-boards "arduino:samd"
