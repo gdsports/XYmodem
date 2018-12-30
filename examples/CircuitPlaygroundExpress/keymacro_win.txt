@@ -1,0 +1,6 @@
+GUI-R ~100 'chrome' SPACE 'https://www.youtube.com/' ENTER
+GUI-R ~100 'chrome' SPACE 'https://www.google.com/' ENTER
+GUI-R ~100 'chrome' SPACE 'https://turbofuture.com/computers/keyboard-shortcut-keys' ENTER
+GUI-R ~100 'chrome' SPACE 'https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts' ENTER
+GUI-R ~100 'chrome' SPACE 'https://www.autohotkey.com/' ENTER
+GUI-R ~100 'chrome' SPACE 'https://www.disabled-world.com/assistivedevices/computer/hotkeys.php' ENTER

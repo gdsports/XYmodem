@@ -1,0 +1,6 @@
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://www.google.com/' ENTER
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://www.youtube.com/' ENTER
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts' ENTER
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://turbofuture.com/computers/keyboard-shortcut-keys' ENTER
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://www.autohotkey.com/' ENTER
+ALT-F2 ~100 'chromium-browser' ~10 ENTER ~100 'https://www.disabled-world.com/assistivedevices/computer/hotkeys.php' ENTER
